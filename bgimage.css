@@ -1,0 +1,13 @@
+body {
+  background-image: url('images/bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+
+.container { 
+  top: 400px;
+  position: fixed; 
+  left: 350px;
+}
+
